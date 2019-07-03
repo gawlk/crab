@@ -1,5 +1,29 @@
 # :heavy_multiplication_x: crab
 
+## Preview
+
+```
+.-------------------------------------.
+| . * . . . . . . . . . . . . . . . . |
+|                                     |
+| . . o . . . o . . . . o o * o o . . |
+|                            /        |
+| . o . o o . . o o . . o . o . * . . |
+|                          /          |
+| . . . o o o . . . o o * o . * o . . |
+|        \  |            /            |
+| . o . . o o . . o . . o o o * o . . |
+|          \|          /              |
+| . . . * . o * * . . o o . . . o o . |
+|           |\                        |
+| . o o . . o o . o . . . . o o . . . |
+|           |  \                      |
+| . o . . o o . o . o . o . . . . . . |
+|                                     |
+| . . . . . . . . . . . . . . . . . . |
+'-------------------------------------'
+```
+
 ## Description
 
 A simple, solo, terminal tic-tac-toe game written in C.
