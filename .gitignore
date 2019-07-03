@@ -1,0 +1,10 @@
+.DS_Store
+*.o
+main_console
+main
+.vscode
+.#*
+valgrind-out.txt
+main_test*
+a.out*
+save
